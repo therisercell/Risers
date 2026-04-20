@@ -83,3 +83,12 @@ a:visited {
 a:hover {
     font-weight: bold;
 }
+footer{
+    text-align: center;
+    background-color: rgb(48, 26, 6);
+    color:#E98A15;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
