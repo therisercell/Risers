@@ -73,7 +73,7 @@ nav a:hover{
     margin-top: 10px;
     border-style:double;
     border-radius: 5px;
-    height: fit-content;
+    height: 125px;
     width: 500px;
 }
 ul {
